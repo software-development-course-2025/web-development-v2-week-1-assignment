@@ -1,9 +1,9 @@
 # HTML5 + Accessibility & SEO Basics Assignment 
 
-This is a simple HTML5 webpage created as part of the assignment **"HTML5 + Accessibility & SEO Basics"**.
+This is a simple HTML5 webpage created as part of the **"Week 1"** assignment.
 
 ## 🌐 Live Demo
-🔗 [Click here to view the live page](https://augusto047.github.io/html5-accessibility-seo/)
+🔗 [Click here to view the live page](https://software-development-course-2025.github.io/web-development-v2-week-1-assignment/)
 
 ## ✅ Objectives
 
@@ -37,4 +37,4 @@ Augusto Mate (GitHub: [@augusto047](https://github.com/augusto047))
 
 ---
 
-Feel free to fork or use this structure as a base for your own HTML projects!
+> Feel free to fork or use this structure as a base for your own HTML projects!
