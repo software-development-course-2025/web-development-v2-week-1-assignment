@@ -33,7 +33,7 @@ This is a simple HTML5 webpage created as part of the **"Week 1"** assignment.
 
 ## 👨‍💻 Author
 
-Augusto Mate (GitHub: [@augusto047](https://github.com/augusto047))
+Augusto Mate (GitHub: [@augusto-mate](https://github.com/augusto-mate))
 
 ---
 
